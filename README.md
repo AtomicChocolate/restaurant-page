@@ -6,6 +6,7 @@ Made to demonstrate a simple tab functionality which can change the contents of 
 
 #### Features
 * Tab navigation
+* Responsive design
  
 #### Made with
 * HTML
