@@ -1,9 +1,9 @@
 function loadMenu() {
-	const container = document.querySelector("#content");
+  const container = document.querySelector("#content");
 
-	container.innerHTML = "";
+  container.innerHTML = "";
 
-	container.innerHTML = `
+  container.innerHTML = `
 		<header>
 			<h2>Restaurant Menu</h2>
 			<p>Check out some of our featured items that make our restaurant famous. To see the full menu, visit our restaurant in-person or check on Doordash or whatever.</p>
@@ -20,6 +20,6 @@ function loadMenu() {
 			<p>If you're jealous of all the gifted people who can move things with their mind, this pizza is for you. Advanced cooking techniques make this pizza able to be moved by anyone's mind, no superpowers required.</p>
 		</div>
 	`;
-};
+}
 
-export default loadMenu
+export default loadMenu;
